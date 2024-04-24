@@ -1,0 +1,26 @@
+.rect { 
+    background-color: transparent;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    border: 1px solid black;
+}
+
+.name {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.count {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.price {
+    padding: 10px;
+    font-size: 24px;
+}
